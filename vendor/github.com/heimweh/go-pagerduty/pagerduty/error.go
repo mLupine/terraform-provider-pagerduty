@@ -1,4 +1,4 @@
-package pagerduty
+package pagerdutync
 
 import (
 	"errors"
