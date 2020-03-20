@@ -1,4 +1,4 @@
-package pagerdutync
+package pagerduty
 
 type resourceReference struct {
 	HTMLURL string `json:"html_url,omitempty"`

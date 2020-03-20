@@ -1,4 +1,4 @@
-package pagerdutync
+package pagerduty
 
 import "fmt"
 
